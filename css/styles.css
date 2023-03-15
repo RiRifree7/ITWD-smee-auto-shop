@@ -34,3 +34,18 @@ section {
     color: red;
 }
 
+.business-info {
+    color: var(--primary-theme-color);
+}
+
+#socials {
+    color: var(--primary-theme-color);
+}
+
+.socials {
+    color: #33F53A;
+}
+
+#icon {
+    color: #F59133;
+}
